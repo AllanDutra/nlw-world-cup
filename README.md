@@ -7,9 +7,10 @@ This repository was developed during the **next level week cup**, promoted by th
 
 ## Screens
 
-<center>
-<b>Home</b>
-</center>
+<div align="center">
+<strong>Home</strong>
+<p></p>
+</div>
 
 ![Image of home screen](https://ik.imagekit.io/ghmg33v8b/projects/nlw-world-cup/index-page-of-web_blS1y8JEQ.png?ik-sdk-version=javascript-1.4.3&updatedAt=1668870490961 "Home Screen")
 
@@ -24,13 +25,17 @@ This repository was developed during the **next level week cup**, promoted by th
 
 ## Screens
 
+<center>
+
 | Splash   | Sign In | New Pool   | New Pool Loading  |
 |:--------:|:--------:|:--------:|:--------:|
-| <img src="https://ik.imagekit.io/ghmg33v8b/projects/nlw-world-cup/splash-screen_uKIAF0BOp.png?ik-sdk-version=javascript-1.4.3&updatedAt=1668871210925" width="145"> | <img src="https://ik.imagekit.io/ghmg33v8b/projects/nlw-world-cup/login_2Yn-f5V3x.png?ik-sdk-version=javascript-1.4.3&updatedAt=1668872533959" width="145"> | <img src="https://ik.imagekit.io/ghmg33v8b/projects/nlw-world-cup/new-sweepstakes_5DzxsIBAG.png?ik-sdk-version=javascript-1.4.3&updatedAt=1668871363282" width="145" /> | <img src="https://ik.imagekit.io/ghmg33v8b/projects/nlw-world-cup/new-sweepstake-loading_BoAFBjVFn.png?ik-sdk-version=javascript-1.4.3&updatedAt=1668872534373" width="145" /> |
+| <img src="https://ik.imagekit.io/ghmg33v8b/projects/nlw-world-cup/splash-screen_uKIAF0BOp.png?ik-sdk-version=javascript-1.4.3&updatedAt=1668871210925" width="100%"> | <img src="https://ik.imagekit.io/ghmg33v8b/projects/nlw-world-cup/login_2Yn-f5V3x.png?ik-sdk-version=javascript-1.4.3&updatedAt=1668872533959" width="100%"> | <img src="https://ik.imagekit.io/ghmg33v8b/projects/nlw-world-cup/new-sweepstakes_5DzxsIBAG.png?ik-sdk-version=javascript-1.4.3&updatedAt=1668871363282" width="100%" /> | <img src="https://ik.imagekit.io/ghmg33v8b/projects/nlw-world-cup/new-sweepstake-loading_BoAFBjVFn.png?ik-sdk-version=javascript-1.4.3&updatedAt=1668872534373" width="100%" /> |
 
 | My Pools | Pool Details | Search Pool   | Pool Ranking  |
 |:--------:|:--------:|:--------:|:--------:|
-| <img src="https://ik.imagekit.io/ghmg33v8b/projects/nlw-world-cup/my-sweepstakes_Hyuz9Kr58.png?ik-sdk-version=javascript-1.4.3&updatedAt=1668872534524" width="145" /> | <img src="https://ik.imagekit.io/ghmg33v8b/projects/nlw-world-cup/sweepstakes-details_xBt9E_Igfm?ik-sdk-version=javascript-1.4.3&updatedAt=1668871903648" width="145" /> | <img src="https://ik.imagekit.io/ghmg33v8b/projects/nlw-world-cup/search-my-sweepstakes_Xcu_sTa8m.png?ik-sdk-version=javascript-1.4.3&updatedAt=1668872907934" width="145" /> | <img src="https://ik.imagekit.io/ghmg33v8b/projects/nlw-world-cup/sweepstakes-ranking_3jpBxvLG_.png?ik-sdk-version=javascript-1.4.3&updatedAt=1668872534522" width="145" />  |
+| <img src="https://ik.imagekit.io/ghmg33v8b/projects/nlw-world-cup/my-sweepstakes_Hyuz9Kr58.png?ik-sdk-version=javascript-1.4.3&updatedAt=1668872534524" width="100%" /> | <img src="https://ik.imagekit.io/ghmg33v8b/projects/nlw-world-cup/sweepstakes-details_xBt9E_Igfm?ik-sdk-version=javascript-1.4.3&updatedAt=1668871903648" width="100%" /> | <img src="https://ik.imagekit.io/ghmg33v8b/projects/nlw-world-cup/search-my-sweepstakes_Xcu_sTa8m.png?ik-sdk-version=javascript-1.4.3&updatedAt=1668872907934" width="100%" /> | <img src="https://ik.imagekit.io/ghmg33v8b/projects/nlw-world-cup/sweepstakes-ranking_3jpBxvLG_.png?ik-sdk-version=javascript-1.4.3&updatedAt=1668872534522" width="100%" />  |
+
+</center>
 
 ## Technologies
 - [React Native](https://reactnative.dev/)
