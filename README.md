@@ -63,13 +63,13 @@ response:
 
 ```
 {
-	"user": {
-		"name": string,
-		"avatarUrl": string,
-		"sub": string,
-		"iat": number,
-		"exp": number
-	}
+   "user": {
+      "name": string,
+      "avatarUrl": string,
+      "sub": string,
+      "iat": number,
+      "exp": number
+   }
 }
 ```
 <br>
@@ -82,7 +82,7 @@ request:
 
 ```
 {
-	"access_token": string
+   "access_token": string
 }
 ```
 
@@ -90,7 +90,7 @@ response:
 
 ```
 {
-	"token": string
+   "token": string
 }
 ```
 <hr>
@@ -112,29 +112,29 @@ response:
 
 ```
 {
-	"games": [
-		{
-			"id": string,
-			"date": DateTime,
-			"firstTeamCountryCode": string,
-			"secondTeamCountryCode": string,
-			"guess": {
-				"id": string,
-				"firstTeamPoints": number,
-				"secondTeamPoints": number,
-				"createdAt": DateTime,
-				"gameId": string,
-				"participantId": string
-			}
-		},
-		{
-			"id": string,
-			"date": DateTime,
-			"firstTeamCountryCode": string,
-			"secondTeamCountryCode": string,
-			"guess": null
-		}
-	]
+   "games": [
+      {
+         "id": string,
+         "date": DateTime,
+         "firstTeamCountryCode": string,
+         "secondTeamCountryCode": string,
+         "guess": {
+            "id": string,
+            "firstTeamPoints": number,
+            "secondTeamPoints": number,
+            "createdAt": DateTime,
+            "gameId": string,
+            "participantId": string
+         }
+      },
+      {
+         "id": string,
+         "date": DateTime,
+         "firstTeamCountryCode": string,
+         "secondTeamCountryCode": string,
+         "guess": null
+      }
+   ]
 }
 ```
 
@@ -150,7 +150,7 @@ response:
 
 ```
 {
-	"count": number
+   "count": number
 }
 ```
 <br>
@@ -170,8 +170,8 @@ request:
 
 ```
 {
-	"firstTeamPoints": number,
-	"secondTeamPoints": number
+   "firstTeamPoints": number,
+   "secondTeamPoints": number
 }
 ```
 
@@ -187,7 +187,7 @@ response:
 
 ```
 {
-	"count": number
+   "count": number
 }
 ```
 <br>
@@ -202,30 +202,30 @@ response:
 
 ```
 {
-	"pools": [
-		{
-			"id": string,
-			"title": string,
-			"code": string,
-			"createdAt": DateTime,
-			"ownerId": string,
-			"participants": [
-				{
-					"id": string,
-					"user": {
-						"avatarUrl": string
-					}
-				}
-			],
-			"owner": {
-				"id": string,
-				"name": string
-			},
-			"_count": {
-				"participants": number
-			}
-		}
-	]
+   "pools": [
+      {
+         "id": string,
+         "title": string,
+         "code": string,
+         "createdAt": DateTime,
+         "ownerId": string,
+         "participants": [
+            {
+               "id": string,
+               "user": {
+                  "avatarUrl": string
+               }
+            }
+         ],
+         "owner": {
+            "id": string,
+            "name": string
+         },
+         "_count": {
+            "participants": number
+         }
+      }
+   ]
 }
 ```
 <br>
@@ -244,28 +244,28 @@ response:
 
 ```
 {
-	"pool": {
-		"id": string,
-		"title": string,
-		"code": string,
-		"createdAt": DateTime,
-		"ownerId": string,
-		"participants": [
-			{
-				"id": string,
-				"user": {
-					"avatarUrl": string
-				}
-			}
-		],
-		"owner": {
-			"id": string,
-			"name": string
-		},
-		"_count": {
-			"participants": number
-		}
-	}
+   "pool": {
+      "id": string,
+      "title": string,
+      "code": string,
+      "createdAt": DateTime,
+      "ownerId": string,
+      "participants": [
+         {
+            "id": string,
+            "user": {
+               "avatarUrl": string
+            }
+         }
+      ],
+      "owner": {
+         "id": string,
+         "name": string
+      },
+      "_count": {
+         "participants": number
+      }
+   }
 }
 ```
 
@@ -279,7 +279,7 @@ _**Bearer token optional (?)**_
 
 ```
 {
-	"title": string
+   "title": string
 }
 ```
 
@@ -287,7 +287,7 @@ response:
 
 ```
 {
-	"code": string
+   "code": string
 }
 ```
 <br>
@@ -302,7 +302,7 @@ request:
 
 ```
 {
-	"code": string
+   "code": string
 }
 ```
 <hr>
@@ -317,7 +317,7 @@ response:
 
 ```
 {
-	"count": number
+   "count": number
 }
 ```
 
