@@ -1,5 +1,7 @@
 
+<div align="center">
 <img src="https://ik.imagekit.io/ghmg33v8b/projects/nlw-world-cup/nlw-world-cup_CU7S4LwV0.svg?ik-sdk-version=javascript-1.4.3&updatedAt=1668870447980" width="500" />
+</div>
 
 This repository was developed during the **next level week cup**, promoted by the **Rocketseat team**, in order to cover more knowledge related to the **Javascript** stack with **React** and **Next.JS** technologies for the Web, **React Native** and **Expo** for the Mobile App, in addition to from **Node JS** and **Fastify** to the backend server.  All technologies used **Typescript**.
 
