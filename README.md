@@ -313,6 +313,7 @@ response:
 - [Prisma](https://www.prisma.io/)
 - [Zod](https://zod.dev/)
 - [Short Unique Id](https://shortunique.id/)
+- [TypeScript](https://www.typescriptlang.org/)
 
 <br>
 
